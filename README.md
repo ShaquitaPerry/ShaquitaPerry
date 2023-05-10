@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy-downsized.gif" width="100"/>
+<img src="https://media.giphy.com/media/TFPdmm3rdzeZ0kP3zG/giphy-downsized.gif" width="400"/>
 <div id="badges"> 
 <a href="https://www.linkedin.com/in/shaquitaperry/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -15,13 +15,19 @@ Hey there
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ShaquitaPerry/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/ShaquitaPerry/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ShaquitaPerry/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/ShaquitaPerry/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShaquitaPerry/azure-network-protocols)
+  <b>osTicket (Help Desk Ticketing System) </b>
+  
+  [osTicket: Prerequisites and Installation](https://github.com/ShaquitaPerry/osticket-prereqs)
+  
+  [osTicket: Post-Installation Configuration](https://github.com/ShaquitaPerry/post-install-config)
+  
+  [osTicket: Ticket Lifecycle Examples](https://github.com/ShaquitaPerry/ticket-lifecycle)
+  
+  <b>Microsoft Azure</b>
+ 
+[Configuring Active Directory within Azure VMs](https://github.com/ShaquitaPerry/configure-ad)
+  
+   [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShaquitaPerry/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
