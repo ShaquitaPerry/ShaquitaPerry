@@ -12,8 +12,14 @@ Hey there
 </h1>
   
 <h1>I'm Shaquita, an <a href="https://www.linkedin.com/in/shaquitaperry/">IT Professional</a>☺</h1>
-
-<h2>👨‍💻 Information Technology Projects:</h2>
+ :woman_technologist: About Me: 
+  
+  I always had a passion for technology. I've done technical support for a few companies but decided it was time to dive more deeper into the technology world. I recently completed the certification for Information Technology at Course Careers. I've learned how to do many tasks such as working tickets, creating virtual machines (Windows and Linux), settings up VPNS, building intuition for DNS, and deploying active directory. I have shared some of my projects for you to view so you can get a glimpse of some of my knowledge.
+ 
+  <div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+<h2>💻 Information Technology Projects:</h2>
 
   <b>osTicket (Help Desk Ticketing System) </b>
   
