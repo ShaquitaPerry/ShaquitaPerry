@@ -35,6 +35,8 @@ Hey there
   
    [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShaquitaPerry/azure-network-protocols)
   
+  [Creating Virtual Machines Using Azure](https://github.com/ShaquitaPerry/creating-virtual-machines-using-Azure)
+  
 :hammer_and_wrench: Languages and Tools :
   
   <div>
