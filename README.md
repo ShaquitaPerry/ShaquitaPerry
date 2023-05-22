@@ -33,7 +33,7 @@ Hey there
  
 [Configuring Active Directory within Azure VMs](https://github.com/ShaquitaPerry/configure-ad)
   
-   [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShaquitaPerry/azure-network-protocols)
+   [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ShaquitaPerry/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   
   [Creating Virtual Machines Using Azure](https://github.com/ShaquitaPerry/creating-virtual-machines-using-Azure)
   
